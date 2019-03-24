@@ -1,0 +1,7 @@
+node_modules
+static
+npm-debug.log
+bundle.*
+configurations.js
+config.json
+.env
